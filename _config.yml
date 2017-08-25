@@ -39,7 +39,7 @@ improve_content: https://github.com/ohbrightcare/ohBrightCare.github.io/edit/mas
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ohbrightcare.github.io/'
+urlimg: 'https://ohbrightcare.github.io/images/'
 
 
 # Logo size is 600x80 pixels
