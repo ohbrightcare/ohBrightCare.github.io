@@ -17,7 +17,8 @@ slogan: 'GOOD HEALTHCARE FOR A HAPPIER LIFE'
 description: '»ohBrightCare« is a new brand for Healthcare division in DaejinDMP.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+##credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: 'OhBrightCare | DAEJINDMP 3, Nonhyeon-ro 128-gil, Gangnam-gu, Seoul, Republic of Korea<br>Tel : +82-2-3443-5308 | Fax : +82-2-3443-5351 | E-mail : care@daejindmp.co.kr<br>Copyright ⓒ 2017 <a href="http://www.daejindmp.co.kr/">DaejinDMP Co.,Inc</a>. All Rights Reserved.
 
 # Main author of the website
 # See > authors.yml
@@ -38,7 +39,7 @@ improve_content: https://github.com/ohbrightcare/ohBrightCare.github.io/edit/mas
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ohbrightcare.github.io/images/'
+urlimg: 'https://ohbrightcare.github.io/'
 
 
 # Logo size is 600x80 pixels
@@ -111,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: ohbrightcare     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: ohbrightcare     # Default author for posts
 
 
 
@@ -142,9 +143,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+##google_author:             'https://plus.google.com/u/0/118311555303973066167'
+##google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+##bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -177,9 +178,9 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
-og_type:                            'website'
+##og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+##og_locale:                          'en_EN'
+##og_type:                            'website'
 
 
 #      _____            _       __   __  ___         ___
@@ -205,7 +206,7 @@ og_type:                            'website'
 #
 # used in _includes/comments
 
-#disqus_shortname: feelingresponsive
+##disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -229,7 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-#google_analytics_tracking_id: UA-60112281-1
+##google_analytics_tracking_id: UA-60112281-1
 
 
 
@@ -246,7 +247,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# tawkto_embed_uri:
+## tawkto_embed_uri:
 
 
 #     ___              _     __           __
@@ -263,10 +264,10 @@ sass:
 #
 #
 
-asciidoctor-enabled: false
-asciidoctor:
-  description: testtewtetrue
-  attributes:
-    source-highlighter: coderay
-    coderay-css: style
-    icons: font
+##asciidoctor-enabled: false
+##asciidoctor:
+##  description: testtewtetrue
+##  attributes:
+##    source-highlighter: coderay
+##    coderay-css: style
+##    icons: font
