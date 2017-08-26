@@ -1,12 +1,33 @@
 - name: GitHub
   url: http://github.com/ohbrightcare
   class: icon-github
-  title: Opened Sources
+  title: Source Codes
 
 - name: YouTube
   url: http://www.youtube.com/ohbrightcare
   class: icon-youtube
-  title: "YouTube chanel"
+  title: "YouTube"
+
+- name: Instagram
+  url: https://www.instagram.com/ohbright_led
+  class: icon-instagram
+  title: "Instagram"
+
+- name: DaejinDMP
+  url: http://www.daejindmp.co.kr
+  class: icon-home
+  title: "DaejinDMP Company"
+
+- name: XLEDS
+  url: http://www.daejindmp.co.kr/?page_id=3867
+  class: icon-star
+  title: "XLEDS for Business"
+
+- name: ohBright
+  url: http://ohbright.com
+  class: icon-star-outlined
+  title: "ohBright for Home"
+
 
 ##- name: Twitter
 ##  url: http://twitter.com/phlow
@@ -31,11 +52,6 @@
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest

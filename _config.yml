@@ -14,11 +14,11 @@ title: 'ohBrightCare'
 slogan: 'GOOD HEALTHCARE FOR A HAPPIER LIFE'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»ohBrightCare« is a new brand for Healthcare division in DaejinDMP.'
+description: 'OhBrightCare | DAEJINDMP 3, Nonhyeon-ro 128-gil, Gangnam-gu, Seoul, Republic of Korea | Tel : +82-2-3443-5308 | Fax : +82-2-3443-5351 | E-mail : care@daejindmp.co.kr'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 ##credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
-credits: 'OhBrightCare | DAEJINDMP 3, Nonhyeon-ro 128-gil, Gangnam-gu, Seoul, Republic of Korea | Tel : +82-2-3443-5308 | Fax : +82-2-3443-5351 | E-mail : care@daejindmp.co.kr | Copyright ⓒ 2017 <a href="http://www.daejindmp.co.kr/">DaejinDMP Co.,Inc</a>. All Rights Reserved.'
+credits: 'Copyright ⓒ 2017 <a href="http://www.daejindmp.co.kr/">DaejinDMP Co.,Inc</a>. All Rights Reserved.'
 
 # Main author of the website
 # See > authors.yml
