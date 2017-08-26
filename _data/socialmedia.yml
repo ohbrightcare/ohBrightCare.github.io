@@ -1,10 +1,10 @@
 - name: GitHub
-  url: http://github.com/ohbrightcare
+  url: https://github.com/ohbrightcare
   class: icon-github
   title: Source Codes
 
 - name: YouTube
-  url: http://www.youtube.com/ohbrightcare
+  url: https://www.youtube.com/ohbrightcare
   class: icon-youtube
   title: "YouTube"
 
