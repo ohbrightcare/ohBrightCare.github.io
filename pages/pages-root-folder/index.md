@@ -10,17 +10,17 @@ header:
 widget1:
   title: "XML-100A"
   url: 'https://ohbrightcare.github.io//products/XML100A/'
-  image: widget_XML100A_01.jpg
+  image: widgets/widget_XML100A_01.jpg
   text: '2등급복합자극기, 3컬러'
 widget2:
   title: "LLT-1"
   url: 'https://ohbrightcare.github.io//products/LLT1/'
-  image: widget_LLT1_01.jpg
+  image: widgets/widget_LLT1_01.jpg
   text: '2등급복합자극기, 4컬러'
 widget3:
   title: "About"
   url: 'https://ohbrightcare.github.io//about/'
-  image: widget_about_01.jpg
+  image: widgets/widget_about_01.jpg
   text: '회사소개!'
 #
 # Use the call for action to show a button on the frontpage

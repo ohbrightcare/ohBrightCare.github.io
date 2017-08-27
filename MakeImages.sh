@@ -17,10 +17,10 @@ for f in *
 do convert $f -resize 302x182 widgets/widget_$f
 done
 
-cp -r thumbnails/* .
-rm -r thumbnails
-cp -r widgets/* .
-rm -r widgets
+#cp -r thumbnails/* .
+#rm -r thumbnails
+#cp -r widgets/* .
+#rm -r widgets
 
 cd ..
 

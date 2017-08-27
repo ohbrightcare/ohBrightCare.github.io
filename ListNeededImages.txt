@@ -1,8 +1,14 @@
+./_posts/products/2015-08-16-LLT1.md:    image_fullwidth: "LLT1_01.jpg"
+./_posts/products/2015-08-16-LLT1.md:    thumb: "/tumbnails/thumb_LLT1_01.jpg"
+./_posts/products/2014-09-13-XML100A.md:    image_fullwidth: "XML100A_01.jpg"
+./_posts/products/2014-09-13-XML100A.md:    thumb: "thumbnails/thumb_XML100A_01.jpg"
 ./pages/about.md:   image_fullwidth: "about_01.jpg"
 ./pages/contact.md:   image_fullwidth: "contact_01.jpg"
 ./pages/info.md:    image_fullwidth: "info_01.jpg"
 ./pages/pages-root-folder/index.md:  image_fullwidth: index_01.jpg
-./pages/pages-root-folder/index.md:  image: widget_XML100A_01.jpg
-./pages/pages-root-folder/index.md:  image: widget_LLT1_01.jpg
-./pages/pages-root-folder/index.md:  image: widget_about_01.jpg
+./pages/pages-root-folder/index.md:  image: widgets/widget_XML100A_01.jpg
+./pages/pages-root-folder/index.md:  image: widgets/widget_LLT1_01.jpg
+./pages/pages-root-folder/index.md:  image: widgets/widget_about_01.jpg
 ./pages/products.md:   image_fullwidth: "products_01.jpg"
+./blog/archive.html:   image_fullwidth: blog_archive_01.jpg
+./blog/index.html:    image_fullwidth: "blog_index_01.jpg"
