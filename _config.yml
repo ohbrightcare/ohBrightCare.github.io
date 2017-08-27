@@ -276,68 +276,60 @@ sass:
 
 #####################################
 # prose.io config
+baseurl: /
+permalink: /
+#markdown: rdiscount
 prose:
   rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
+  siteurl: 'https://ohbrightcare.github.io/'
+#  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+#  media: 'media'
   metadata:
     _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "blog"
       - name: "title"
         field:
           element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
+          label: "Title"
+          value: ""
+      - name: "splash"
         field:
           element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "bigimg"
-        field:
-          element: "text"
-          label: "bigimg"
-          help: "Add a bigimg like this : /img/bigimg01.jpg"
-          placeholder: "/img/bigimg01.jpg"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image's URL"
-          placeholder: "http://...png"
-          alterable: true
+          label: "Splash image"
+          value: ""
       - name: "tags"
         field:
-          element: "text"
-          label: "Tags"
-          help: "Add a tags like this : project software mechanics life"
-          placeholder: "project software mechanics life"
-          alterable: true
-      - name: "published"
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
+    _posts/static:
+      - name: "layout"
         field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
-
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
