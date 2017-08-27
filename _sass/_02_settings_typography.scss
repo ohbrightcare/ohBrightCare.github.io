@@ -24,9 +24,9 @@ $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
 
-$font-family-sans-serif: "Noto Sans KR", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Noto Sans KR", "Volkhov", Georgia, Times, serif;
-$font-family-monospace: "Nanum Gothic Coding", "Lucida Console", Monaco, monospace;
+$font-family-sans-serif: "Noto Sans KR", sans-serif;
+$font-family-serif: "Noto Sans KR", serif;
+$font-family-monospace: "Nanum Gothic Coding", monospace;
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
