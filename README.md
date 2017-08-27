@@ -1,5 +1,5 @@
 
-## Homepage for ohBrightCare
+# Homepage for ohBrightCare
 
 on the construction!
 
@@ -21,8 +21,7 @@ on the construction!
 
 ### Favicon, Logo Images
 /assets/img/*.png
-/logo/*.png
-/logo/img/*.png
+/assets/img/logo/Makelogos.sh
 ```
 
 

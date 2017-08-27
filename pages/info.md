@@ -5,7 +5,7 @@ subheadline: "Website"
 teaser: "이 홈페이지를 어떻게 만들었느냐 뭐 그런 내용들이면 될 것 같음"
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "info_01.jpg"
 ---
 
 

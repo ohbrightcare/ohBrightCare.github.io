@@ -12,7 +12,7 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 @import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
 
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
-@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+//@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
 
 
@@ -25,7 +25,7 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 $font-family-sans-serif: "Noto Sans KR", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Nanum Myeongjo", "Volkhov", Georgia, Times, serif;
+$font-family-serif: "Noto Sans KR", "Volkhov", Georgia, Times, serif;
 $font-family-monospace: "Nanum Gothic Coding", "Lucida Console", Monaco, monospace;
 
 $body-font-family: $font-family-sans-serif;

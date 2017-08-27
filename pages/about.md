@@ -5,7 +5,7 @@ title: "About"
 subheadline: "Good Healthcare for a Happier Life"
 teaser: "We are the great team for healthcare innovation."
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "about_01.jpg"
 permalink: "/about/"
 ---
 

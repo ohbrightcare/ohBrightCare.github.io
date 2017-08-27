@@ -4,6 +4,8 @@ title: "Contact"
 meta_title: "Contact and use our contact form"
 subheadline: "연락하려면 이곳을 참고해 주세염"
 teaser: "제품에 대해서 궁금한 것, 하자가 있거나 기타 등등"
+header:
+   image_fullwidth: "contact_01.jpg"
 permalink: "/contact/"
 ---
 
